@@ -1,1 +1,1 @@
- 
+Suunnitelmana on toteuttaa kopitteleva robo. Ensimmäisellä viikolla olen miettinyt robotin rakennetta, ja minulla on nyt jonkinlainen kuva robotin ulkomuodosta. Olen myös selvittänyt kuinka robotti voisi laskea heittämänsä pallon trajektorin, ja päässyt siihen tulokseen, että onglema on yllättävän vaikea ja tarvinnee enemmän työtä kuin luulin. Viikko on ollut tämän projektin suhteen hiljainen, mutta onneksi on viikonloppu, jolloin projektia voi saada etenemään. Viikonlopun aikana aion saada ohjelmistoympäristön toimimaan ja robotin prototyypin rakennettua.
